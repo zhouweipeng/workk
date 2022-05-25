@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#! /usr/bin/env node
 import print from "./print.js";
 import { betterAsync } from "./utils.js";
 import { workhour } from "./template.js";
